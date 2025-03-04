@@ -7,9 +7,7 @@
 # 📊 GitHub Stats:
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
-![](https://github-readme-stats.vercel.app/api?username=harishmohanraj&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=harishmohanraj&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harishmohanraj&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=harishmohanraj&theme=radical&no-frame=false&no-bg=true&margin-w=4)
