@@ -7,6 +7,8 @@
 # 📊 GitHub Stats:
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
+![](https://github-readme-stats.vercel.app/api?username=harishmohanraj&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)<br/>
+
 
 
 ## 🏆 GitHub Trophies
